@@ -1,3 +1,0 @@
--- Validating Credit Card Numbers
-
---
