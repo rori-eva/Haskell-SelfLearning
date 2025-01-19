@@ -1,4 +1,4 @@
-import Test.Hspec
+import Test.Hspec ( hspec, describe, it, shouldBe )
 import HW1
 
 main = hspec $ do
